@@ -1,6 +1,6 @@
 <!-- Анимированный баннер с эффектом печатающегося текста -->
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend%20%26%20Fullstack%20Stack&line1=javascript,typescript,react,nextjs,vue&line1Color=f7df1e,007acc,61dafb,000000,40b581&line2=nodejs,express,trpc,prisma,postgresql&line2Color=43853d,000000,2596be,3982ce,316192&theme=tokyonight" alt="My Tech Stack" />
+  <img src="https://img.shields.io/badge/Current_Focus-Building_MetETL_Web_Interface_with_Django_%26_React-purple?style=for-the-badge&logo=python&logoColor=white" alt="Current Focus" />
 </p>
 
 <!-- Интерактивная змейка активности -->
