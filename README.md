@@ -1,6 +1,6 @@
 <!-- Анимированный баннер с эффектом печатающегося текста -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=dark&color=0d1117&height=180&section=header&text=Roman%20Akimov&subtitle=Frontend%20/%20Fullstack%20React%20Developer&theme=tokyonight&fontSize=35&animation=twinkling" width="100%" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend%20%26%20Fullstack%20Stack&line1=javascript,typescript,react,nextjs,vue&line1Color=f7df1e,007acc,61dafb,000000,40b581&line2=nodejs,express,trpc,prisma,postgresql&line2Color=43853d,000000,2596be,3982ce,316192&theme=tokyonight" alt="My Tech Stack" />
 </p>
 
 <!-- Интерактивная змейка активности -->
