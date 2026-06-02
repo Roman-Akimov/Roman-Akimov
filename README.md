@@ -1,13 +1,6 @@
-<!-- Анимированный баннер с эффектом печатающегося текста -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Current_Focus-Building_MetETL_Web_Interface_with_Django_%26_React-purple?style=for-the-badge&logo=python&logoColor=white" alt="Current Focus" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,tokyonight&height=180&section=header&text=Roman%20Akimov&subtitle=Frontend%20/%20Fullstack%20React%20Developer&fontSize=35&fontAlignY=40&animation=twinkling" width="100%" />
 </p>
-
-<!-- Интерактивная змейка активности -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Roman-Akimov/Roman-Akimov/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" />
-</p>
-
 <p align="center">
   <a href="https://t.me/purebloodedAryan"><img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:roma_akimov_12@mail.ru"><img src="https://img.shields.io/badge/Mail.ru-00529B?style=for-the-badge&logo=mailru&logoColor=white" alt="Mail.ru" /></a>
@@ -111,21 +104,3 @@
 * 🥉 **Хакатон СНИУ (Февраль 2025) — III место:** В составе команды с нуля разработал мобильное приложение на `React Native` (с календарем, базой знаний и бесшовной интеграцией Яндекс.Карт для навигации студентов).
 * 🌐 **Платформа «Менторство»:** Спроектировал и запустил веб-сайт для поддержки адаптации студентов. Проект показал высокую ценность для вуза и перерос в долгосрочное официальное сотрудничество с университетом для масштабирования разработки.
 
----
-
-## 📊 Моя GitHub Статистика
-
-<table align="center" width="100%" border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Roman-Akimov&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman-Akimov&layout=compact&theme=tokyonight&hide=html,css,scss" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roman-Akimov&theme=tokyonight" alt="GitHub Streak" width="100%" />
-</p>
