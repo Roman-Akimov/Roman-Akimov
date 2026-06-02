@@ -3,8 +3,8 @@
 </p>
 <p align="center">
   <a href="https://t.me/purebloodedAryan"><img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="roma_akimov_12@mail.ru"><img src="https://img.shields.io/badge/Mail.ru-00529B?style=for-the-badge&logo=mailru&logoColor=white" alt="Mail.ru" /></a>
-  <a href="roma.akimov.005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:roma_akimov_12@mail.ru"><img src="https://img.shields.io/badge/Mail.ru-00529B?style=for-the-badge&logo=mailru&logoColor=white" alt="Mail.ru" /></a>
+  <a href="mailto:roma.akimov.005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 ---
