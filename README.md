@@ -65,7 +65,7 @@
 🧰 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23C4E2FF?style=flat-square&logo=swagger&logoColor=black) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white) `pnpm` • `DBeaver` • `TanStack Query` • `Linux`
 
 ### Code Quality & Engineering Culture
-🛡️ ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black) ![Stylelint](https://img.shields.io/badge/Stylelint-22303E?style=flat-square&logo=stylelint&logoColor=white) `Husky` • `unittest` • Асинхронное программирование (`asyncio` / `aiohttp`) 
+🛡️ ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black) ![Stylelint](https://img.shields.io/badge/Stylelint-22303E?style=flat-square&logo=stylelint&logoColor=white) `Husky`
 
 ---
 
