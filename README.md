@@ -18,6 +18,11 @@
 ---
 
 ## 💼 Коммерческий и практический опыт
+<details open>
+<summary><b>🛠️ Frontend-разработчик — Т1 (Июль 2026 — Н.В.)</b></summary>
+<br
+* **Стек:** `React`, `TypeScript`, `Node.js`, `Tanstack Query/React/Table`, `Zustand`, `Swagger`. `Tailwind`.
+</details>
 
 <details open>
 <summary><b>🛠️ Junior Frontend-разработчик — ИнфоПро (Июль 2025 — Октябрь 2025 · 4 мес.)</b></summary>
@@ -39,11 +44,11 @@
 </details>
 
 <details>
-<summary><b>👑 Руководитель стартапа — Самарский университет (2024 — 2026)</b></summary>
+<summary><b>👑 Руководитель стартапа — HomeBuild (2026)</b></summary>
 <br>
 
-* **Управление командой:** Организовал и координировал кросс-функциональную команду из 2 разработчиков и 2 SMM-менеджеров. Настроил процессы и довел продукт от идеи до стабильного продвижения.
-* **Продуктовый запуск:** Спроектировал и разработал MVP веб-платформы для автоматизации и организации свиданий, успешно запустив этап пользовательского тестирования.
+* **Управление командой:** Организовал и координировал кросс-функциональную команду из 5 разработчиков. Настроил процессы и довел продукт от идеи до стабильного продвижения.
+* **Продуктовый запуск:** Спроектировал и разработал MVP веб-платформы для генерации 2D/3D моделей частных домов с использовании ИИ.
 </details>
 
 ---
@@ -51,10 +56,10 @@
 ## 🛠️ Технологический стек & Навыки
 
 ### Frontend & Mobile Development
-⚡ ![JavaScript](https://img.shields.io/badge/javascript-%23f7df1e.svg?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2340b581.svg?style=flat-square&logo=vue.js&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23dd0031.svg?style=flat-square&logo=angular&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338bdf8.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Sass](https://img.shields.io/badge/SASS-hotpink?style=flat-square&logo=sass&logoColor=white) 
+⚡ ![JavaScript](https://img.shields.io/badge/javascript-%23f7df1e.svg?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)![React Native](https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338bdf8.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Sass](https://img.shields.io/badge/SASS-hotpink?style=flat-square&logo=sass&logoColor=white) 
 
 ### Backend & Databases
-⚙️ ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=tRPC&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+⚙️ ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=tRPC&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 ### Data Engineering & Tools
 🧰 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23C4E2FF?style=flat-square&logo=swagger&logoColor=black) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) `pnpm` • `DBeaver` • `TanStack Query` • `Linux`
